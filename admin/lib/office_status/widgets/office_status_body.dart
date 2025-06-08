@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:admin/office_status/bloc/bloc.dart';
+import 'package:flutter/material.dart';
 
 /// {@template office_status_body}
 /// Body of the OfficeStatusPage.

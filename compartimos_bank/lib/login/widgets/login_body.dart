@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:compartimos_bank/login/bloc/bloc.dart';
+import 'package:flutter/material.dart';
 
 /// {@template login_body}
 /// Body of the LoginPage.

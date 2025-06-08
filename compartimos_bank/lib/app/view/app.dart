@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:compartimos_bank/counter/counter.dart';
+import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {
   const App({super.key});

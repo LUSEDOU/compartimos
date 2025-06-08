@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:compartimos_bank/movements/bloc/bloc.dart';
 import 'package:compartimos_bank/movements/widgets/movements_body.dart';
+import 'package:flutter/material.dart';
 
 /// {@template movements_page}
 /// A description for MovementsPage

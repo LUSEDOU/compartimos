@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:admin/office_status/bloc/bloc.dart';
 import 'package:admin/office_status/widgets/office_status_body.dart';
+import 'package:flutter/material.dart';
 
 /// {@template office_status_page}
 /// A description for OfficeStatusPage

@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:admin/auth/bloc/bloc.dart';
 import 'package:admin/auth/widgets/auth_body.dart';
+import 'package:flutter/material.dart';
 
 /// {@template auth_page}
 /// A description for AuthPage

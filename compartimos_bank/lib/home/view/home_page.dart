@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:compartimos_bank/home/bloc/bloc.dart';
 import 'package:compartimos_bank/home/widgets/home_body.dart';
+import 'package:flutter/material.dart';
 
 /// {@template home_page}
 /// A description for HomePage

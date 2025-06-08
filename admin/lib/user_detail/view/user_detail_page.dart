@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'package:admin/user_detail/bloc/bloc.dart';
 import 'package:admin/user_detail/widgets/user_detail_body.dart';
+import 'package:flutter/material.dart';
 
 /// {@template user_detail_page}
 /// A description for UserDetailPage

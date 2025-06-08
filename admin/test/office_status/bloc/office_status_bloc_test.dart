@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 
+import 'package:admin/office_status/bloc/bloc.dart';
 import 'package:bloc_test/bloc_test.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:admin/office_status/bloc/bloc.dart';
 
 void main() {
   group('OfficeStatusBloc', () {

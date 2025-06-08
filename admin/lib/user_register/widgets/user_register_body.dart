@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:admin/user_register/bloc/bloc.dart';
+import 'package:flutter/material.dart';
 
 /// {@template user_register_body}
 /// Body of the UserRegisterPage.

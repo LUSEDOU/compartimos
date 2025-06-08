@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:compartimos_bank/movements/bloc/bloc.dart';
+import 'package:flutter/material.dart';
 
 /// {@template movements_body}
 /// Body of the MovementsPage.

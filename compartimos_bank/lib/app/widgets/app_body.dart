@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:compartimos_bank/app/bloc/bloc.dart';
+import 'package:flutter/material.dart';
 
 /// {@template app_body}
 /// Body of the AppPage.

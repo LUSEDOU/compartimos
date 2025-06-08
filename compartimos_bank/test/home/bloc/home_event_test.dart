@@ -17,7 +17,7 @@ void main() {
       test('can be instantiated', () {
         expect(
           const CustomHomeEvent(),
-          isNotNull
+          isNotNull,
         );
       });
     });

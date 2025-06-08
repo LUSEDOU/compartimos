@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:admin/user_search/bloc/bloc.dart';
+import 'package:flutter/material.dart';
 
 /// {@template user_search_body}
 /// Body of the UserSearchPage.
