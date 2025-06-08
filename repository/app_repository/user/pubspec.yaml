@@ -3,6 +3,12 @@ description: A Very Good Project created by Very Good CLI.
 version: 0.1.0+1
 publish_to: none
 
+dependencies:
+  app_domain:
+    path: ../../../app_domain
+  pocketbase: ^0.23.0
+  equatable: ^2.0.5
+
 environment:
   sdk: ^3.5.0
 

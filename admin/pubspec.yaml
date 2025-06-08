@@ -15,11 +15,11 @@ dependencies:
     sdk: flutter
   intl: ^0.20.2
   app_domain:
-    ../app_domain
+    path: ../app_domain
   app_repository:
-    ../repository/app_repository/admin
+    path: ../repository/app_repository/admin
   auth_repository:
-    ../repository/auth_repository/admin
+    path: ../repository/auth_repository/admin
 
 
 

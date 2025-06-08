@@ -27,7 +27,7 @@ packages:
   app_repository:
     dependency: "direct main"
     description:
-      path: "../repository/app_repository/user"
+      path: "../repository/app_repository/admin"
       relative: true
     source: path
     version: "0.1.0+1"
@@ -50,7 +50,7 @@ packages:
   auth_repository:
     dependency: "direct main"
     description:
-      path: "../repository/auth_repository/user"
+      path: "../repository/auth_repository/admin"
       relative: true
     source: path
     version: "0.1.0+1"
@@ -143,7 +143,7 @@ packages:
     source: hosted
     version: "0.4.1"
   equatable:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: equatable
       sha256: "567c64b3cb4cf82397aac55f4f0cbd3ca20d77c6c03bedbc4ceaddc08904aef7"
